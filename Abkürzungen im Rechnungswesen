@@ -16,3 +16,15 @@ AR: Ausgangsrechnung
 Einkauf auf Ziel: Verbindlichkeit
 Verkauf auf Ziel: Forderung
 
+EB: Eröffnungbilanz
+SB: Schlussbilanz
+
+EBK: Eröffnungbilanzkonto
+SBK: Schlussbilanzkonto
+
+AK: Anschaffungskosten
+HK: Herstellungskosten
+ND: Nutzungsdauer
+
+AfA: Absetzung für Abnutzung
+p.a.: per annum(pro Jahr)
