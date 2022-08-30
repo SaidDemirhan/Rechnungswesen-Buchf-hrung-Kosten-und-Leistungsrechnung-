@@ -64,6 +64,30 @@ WEK:Werkzeugkosten
 
 ------------------------------------------
 
+Gemeinkosten vs. Einzelkosten
+
+Einzelkosten: können dem Kostenträger (Produkt) direkt zugerechnet werden.
+              Bireysel maliyetler doğrudan maliyet birimine (ürüne) atanabilir.
+Gemeinkosten: können dem Kostenträger nicht direkt zugerechnet werden, sondern werden durch Zuschlagssätze an die Kostenträger verteilt.
+              Genel giderler, doğrudan maliyet nesnesine atanamaz, ancak genel gider oranları kullanılarak maliyet nesnelerine dağıtılır.
+              
+Fixkosten vs. variable Kosten
+
+Variable Kosten:  sind abhängig von der Ausbringungsmenge. 
+                  Also je höher die Ausbringungsmenge, desto mehr Produktionsfaktoren kommen zum Einsatz. 
+                  Die variablen Kosten steigen entsprechend.
+                  
+                  Değişken maliyetler çıktı miktarına bağlıdır. Çıktı miktarı ne kadar yüksek olursa, o kadar fazla üretim faktörü kullanılır. 
+                  Değişken maliyetler buna bağlı olarak artar.
+                  
+Fixkosten:        sind Kosten, die unabhängig von der Ausbringungsmenge anfallen. 
+                  Egal wie viel Einzelstücke produziert werden, die Fixkosten bleiben gleich.
+                  
+                  Sabit maliyetler, çıktı hacminden bağımsız olarak ortaya çıkan maliyetlerdir. 
+                  Ne kadar ayrı parça üretilirse üretilsin, sabit maliyetler aynı kalır.
+
+------------------------------------------
+
 Kostenarten                   Beispiele
 Materialeinzelkosten      Rohstoffe
 Materialgemeinkosten      Raumkosten für Lagerräume, Transportkosten
