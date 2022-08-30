@@ -33,3 +33,48 @@ p.a.: per annum(pro Jahr)
 
 MEK: Metarialeinzelkosten
 FEK: Fertigungeinzelkosten
+SEF: Sondereinzelkosten der Fertigung
+SEV: Sondereinzelkosten des Vertriebs
+
+MK: Materialkosten
+FK: Fertigungskosten
+HK: Herstellkosten
+SK: Selbstkosten
+
+MGK: Materialgemeinkosten
+FGK: Fertigungsgemeinkosten
+VwGK: Verwaltungsgemeinkosten
+VtGK: Vertriebsgemeinkosten (Satis)
+VwVtGK: Verwaltung- und Vertriebsgemeinkosten
+RFGK: Restfertigungsgemeinkosten
+
+MGKZ: Materialgemainkostenzuschlag
+FGKZ: Fertigungsgemeinkostenzuschlag
+VwGKZ: Verwaltungsgemeinkostenzuschlag
+VtGKZ: Vertriebsgemeinkostenzuschlag (Satis)
+RFGKZ: Restfertigungsgemeinkostenzuschlag
+
+BVP:Barverkaufpreis 
+ZVP:Zielverkaufpreis
+LVP:Listenverkaufpreis
+
+MAK:Maschinenkosten
+VOK:Vorrichtungskosten(donanim-tertibat)
+WEK:Werkzeugkosten
+
+------------------------------------------
+
+Kostenarten                   Beispiele
+Materialeinzelkosten      Rohstoffe
+Materialgemeinkosten      Raumkosten für Lagerräume, Transportkosten
+Fertigungseinzelkosten    Fertigungslöhne, Maschinenkosten
+Fertigungsgemeinkosten    Energiekosten, Abschreibungen für Maschinen
+Verwaltungskosten         Büromaterial, Personalkosten für jeweilige Abteilung
+Vertriebskosten           Verpackungen, Kosten für Marketingaktionen
+
+-----------------------------------------
+
+Materialkosten (MK = MEK + MGK)= Materialeinzelkosten + Materialgemeinkosten
+Fertigungskosten (FK =) = Fertigungseinzelkosten + Fertigungsgemeinkosten + Sondereinzelkosten der Fertigung (Entwicklungskosten)
+Herstellkosten (HK = MK + FK) = Materialkosten (MK) + Fertigungskosten (FK)
+Selbstkosten = Verwaltungsgemeinkosten + Vertriebsgemeinkosten + Sondereinzelkosten des Vertriebs(SEV)
