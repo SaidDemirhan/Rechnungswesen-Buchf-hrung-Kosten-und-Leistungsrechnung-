@@ -54,9 +54,9 @@ VwGKZ: Verwaltungsgemeinkostenzuschlag
 VtGKZ: Vertriebsgemeinkostenzuschlag (Satis)
 RFGKZ: Restfertigungsgemeinkostenzuschlag
 
-BVP:Barverkaufpreis 
-ZVP:Zielverkaufpreis
-LVP:Listenverkaufpreis
+BVP: Barverkaufpreis 
+ZVP: Zielverkaufpreis
+LVP: Listenverkaufpreis
 
 MAK:Maschinenkosten
 VOK:Vorrichtungskosten(donanim-tertibat)
